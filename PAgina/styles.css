@@ -1,0 +1,53 @@
+.fecha{
+	color: gray;
+	padding-left: 510px;
+}
+
+.parrafo{
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-bottom: 30px;
+}
+
+.copy{
+	padding-left: 900px;
+	color: #9f9f9f;
+}
+
+a{
+	color: gray;
+}
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+.navbar {
+	background: white;
+}
+
+.navbar a {
+	color: #0000;
+	display:inline-grid;
+	padding: 10px;
+	width: 100%;
+	text-align: center;
+	color: #000;
+	transition: .5s ease-out all;
+}
+
+
+.navbar a:hover {
+	background: gray;
+	color: #fff;
+	text-decoration: none;
+}
+
+.registro a{
+color: black;
+}
